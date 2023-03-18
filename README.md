@@ -18,14 +18,14 @@ GYMPASS STYLE APP
     - [x] Deve ser possível validar o check-in de usuário;
     - [x] Deve ser possível cadastrar uma academia; 
 
-## RNs (Regras de negocios)
+## RNs (Regras de negócios)
 
     - [x] O usuário não deve conseguir se cadastrar com um e-mail duplicado;
     - [x] O usuário não deve conseguir fazer 2 check-ins no mesmo dia;
     - [x] O usuário não deve conseguir fazer check--in se não estiver perto (100m) da academia;
     - [x] O check-in só pode ser validado até 20 minutos após criado;
-    - [ ] O check-in só pode ser validado por administradores;
-    - [ ] A academia só pode ser cadastrada por administradores;
+    - [x] O check-in só pode ser validado por administradores;
+    - [x] A academia só pode ser cadastrada por administradores;
 
 ## RNFs (Requisitos não funcionais)
 
@@ -33,4 +33,4 @@ GYMPASS STYLE APP
     - [x] A senha do usuário precisa estar criptografada;
     - [x] Os dados do app precisam sstar persistidos em um banco POSTgreesSQL;
     - [x] Todas as listas de dados precisam estar paginadas com 20 itens por páginas;
-    - [ ] O usuário identificado por um JWT (Json Web Token)
+    - [x] O usuário identificado por um JWT (Json Web Token)
