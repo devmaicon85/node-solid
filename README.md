@@ -1,9 +1,4 @@
-# APP
-
-GYMPASS STYLE APP
-
-- Geo localização no back-end
-- Verificação com datas
+# APP GYMPASS STYLE APP
 
 ## RFs (Requisitos funcionais)
 
